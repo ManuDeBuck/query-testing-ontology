@@ -4,12 +4,12 @@
 @prefix owl:  <http://www.w3.org/2002/07/owl#> .
 @prefix dc:   <http://purl.org/dc/elements/1.1/> .
 
-@prefix :     <https://manudebuck.github.io/query-testing-ontology/query-testing-ontology.ttl#> .
+@prefix :     <https://comunica.github.io/ontology-query-testing/ontology-query-testing.ttl#> .
 
-: rdfs:comment     "Manifest vocabulary for query-engine test cases" ;
+: rdfs:comment     "Manifest vocabulary for query-engine testing" ;
   dc:creator       "Manu De Buck" ;
   dc:subject       "" ;
-  dc:publisher     "Manu De Buck" ;
+  dc:publisher     "comunica" ;
   dc:title         "Query-Engine testing vocabulary" ;
   dc:description   "Query-Engine testing vocabulary" ;
   dc:date          "2019-8" ;
